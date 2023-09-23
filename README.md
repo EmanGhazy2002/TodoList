@@ -35,5 +35,53 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Eman1-2-3/todo-list.git
+   git clone https://github.com/yourusername/todo-list.git
+   ```
 
+2. Navigate to the project directory:
+   ```sh
+   cd todo-list
+   ```
+
+3. Install Laravel dependencies using Composer:
+   ```sh
+   composer install
+   ```
+
+4. Copy the `.env.example` file to `.env` and configure your database settings:
+   ```sh
+   cp .env.example .env
+   ```
+
+5. Generate a new application key:
+   ```sh
+   php artisan key:generate
+   ```
+
+6. Migrate the database:
+   ```sh
+   php artisan migrate
+   ```
+
+7. Start the development server:
+   ```sh
+   php artisan serve
+   ```
+
+## Usage
+1. Open your web browser and visit `http://localhost:8000`.
+2. Register a new account or log in if you have an existing account.
+3. Once logged in, you can:
+   - Create new tasks.
+   - View your tasks on the dashboard.
+   - Edit task titles and descriptions by clicking on a task.
+   - Delete tasks by clicking the delete button next to a task.
+
+## Contributing
+Contributions are welcome! If you have any ideas or improvements, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+```
+
+Customize this template with the specific details of your project and its features. Be sure to include information about prerequisites, installation instructions, usage instructions, and how others can contribute to your project.
