@@ -17,7 +17,6 @@ This is a simple to-do list application that allows users to create, view, edit,
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Create tasks with titles and descriptions.
@@ -79,9 +78,6 @@ Before you begin, ensure you have met the following requirements:
 
 ## Contributing
 Contributions are welcome! If you have any ideas or improvements, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 ```
 
-Customize this template with the specific details of your project and its features. Be sure to include information about prerequisites, installation instructions, usage instructions, and how others can contribute to your project.
+Feel free to customize this template with your specific project details and features.
