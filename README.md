@@ -7,18 +7,33 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+# To-Do List Application
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+This is a simple to-do list application that allows users to create, view, edit, and delete tasks.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Table of Contents
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Features
+- Create tasks with titles and descriptions.
+- View a list of all created tasks.
+- Edit task titles and descriptions.
+- Delete tasks.
 
+## Prerequisites
+Before you begin, ensure you have met the following requirements:
+- **PHP**: This project is built using the Laravel framework. Make sure you have PHP installed on your system. You can download it from [php.net](https://www.php.net/).
+- **Composer**: You need Composer, the PHP package manager, to install Laravel. You can download it from [getcomposer.org](https://getcomposer.org/).
+- **Git**: You'll need Git to clone this repository. Download it from [git-scm.com](https://git-scm.com/).
+- **A Web Server**: You can use [XAMPP](https://www.apachefriends.org/index.html) or [Homestead](https://laravel.com/docs/8.x/homestead) for local development.
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Eman1-2-3/todo-list.git
 
