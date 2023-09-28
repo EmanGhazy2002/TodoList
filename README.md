@@ -34,7 +34,7 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/EmanGhazy2002/todo-list.git
    ```
 
 2. Navigate to the project directory:
